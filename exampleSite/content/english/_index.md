@@ -23,28 +23,29 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Experience in data analysis and marketing solutions to business problems
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Jharred Williams is a graduate from The University of Georgia where I
+      obtained my degree in Risk Management with a concentration in Management Information
+      Systems I have 6+ years of professional experience. With an IT focus in Business
+      Intelligence, I am now a Microsoft Certified Professional. Through my professional
+      work experience, I have learned how to implement and preserve high-quality results
+      with the focus of maximizing business functionality and efficiency
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Experience in Python Programming
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: "Jared Fontaine is a Python programmer with experience in R and Microsoft
+      Access.  Jared has a Master's of Business Administration from Wheeling Jesuit
+      University and he taught business computers at Belmont College.  He also worked
+      for the Wheeling Jesuit Marketing department as a data analyst.  \n\nJared Fontaine
+      taught himself Python, JavaScript  "
     button:
       enable: true
       label: Check it out
