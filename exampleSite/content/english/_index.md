@@ -9,15 +9,17 @@ banner:
     label: Contact With Us
     link: contact
 feature:
-  enable: false
-  title: Something You Need To Know
+  enable: true
+  title: Services we provide
   feature_item:
-  - name: Clean Code
+  - name: Python Programming
     icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
+    content: Using Python Programming language we clean and wrangle data to find business
+      insights about your company.
+  - name: Data Visulizations
     icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: After we have cleaned and stored the data, we use PANDAS, Dash and Plotly
+      to create interactive Dashboards to present finding and other insights to stakeholders
   - name: 24h Service
     icon: fas fa-user-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
