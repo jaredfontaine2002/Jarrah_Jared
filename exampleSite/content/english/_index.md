@@ -1,7 +1,7 @@
 ---
 banner:
   title: Let us solve your data wrangling and data analytics problems
-  image: images/banner-art.svg
+  image: ''
   content: Jharred and Jared Associates has over 10 years combined data analytic and
     business analytics experience in the corporate and political world.
   button:
