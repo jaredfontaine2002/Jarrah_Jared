@@ -1,51 +1,61 @@
 ---
 banner:
-  title: Let us solve your data wrangling and data analytics problems
-  image: ''
-  content: Jharred and Jared Associates has over 10 years combined data analytic and
-    business analytics experience in the corporate and political world.
+  title: Let us solve your critical website <br> development challenges
+  image: images/banner-art.svg
+  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
+    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
+    laborum officiis necessitatibus
   button:
     enable: true
     label: Contact With Us
     link: contact
 feature:
-  enable: true
-  title: Services we provide
+  enable: false
+  title: Something You Need To Know
   feature_item:
-  - name: Python Programming
+  - name: Clean Code
     icon: fas fa-code
-    content: Using Python Programming language we clean and wrangle data to find business
-      insights about your company.
-  - name: Data Visulizations
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Object Oriented
     icon: fas fa-object-group
-    content: After we have cleaned and stored the data, we use PANDAS, Dash and Plotly
-      to create interactive Dashboards to present finding and other insights to stakeholders
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: 24h Service
+    icon: fas fa-user-clock
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Value For Money
+    icon: fas fa-heart
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Faster Response
+    icon: fas fa-tachometer-alt
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Cloud Support
+    icon: fas fa-cloud
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
-  enable: true
+  enable: false
   service_item:
-  - title: Experience in data analysis and marketing solutions to business problems
+  - title: It is the most advanced digital marketing and it company.
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Jharred Williams is a graduate from The University of Georgia where I
-      obtained my degree in Risk Management with a concentration in Management Information
-      Systems I have 6+ years of professional experience. With an IT focus in Business
-      Intelligence, I am now a Microsoft Certified Professional. Through my professional
-      work experience, I have learned how to implement and preserve high-quality results
-      with the focus of maximizing business functionality and efficiency
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
     button:
-      enable: false
+      enable: true
       label: Check it out
       link: "#"
-  - title: Experience in Python Programming
+  - title: It is a privately owned Information and cyber security company
     images:
     - images/service-1.png
-    content: "Jared Fontaine is a Python programmer with experience in R and Microsoft
-      Access.  Jared has a Master's of Business Administration from Wheeling Jesuit
-      University and he taught business computers at Belmont College.  He also worked
-      for the Wheeling Jesuit Marketing department as a data analyst.  \n\nJared Fontaine
-      taught himself Python, JavaScript  "
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
     button:
       enable: true
       label: Check it out
@@ -75,7 +85,7 @@ service:
       label: Check it out
       link: "#"
 screenshot:
-  enable: true
+  enable: false
   title: Experience the best <br> workflow with us
   image: images/screenshot.svg
 call_to_action:
